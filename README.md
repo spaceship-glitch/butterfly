@@ -1,4 +1,4 @@
-# butterfly
+# Butterfly and Moth Image Classification
 
 ## Files
 - butterfly.ipynb: the notebook of the project.
